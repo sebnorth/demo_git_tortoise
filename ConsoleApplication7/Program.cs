@@ -11,6 +11,7 @@ namespace ConsoleApplication7
         static void Main(string[] args)
         {
             Console.WriteLine("2+2="+(2+2));
+            Console.WriteLine("2-2="+(2-2));
         }
     }
 }

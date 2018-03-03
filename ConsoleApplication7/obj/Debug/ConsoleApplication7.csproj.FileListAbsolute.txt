@@ -4,3 +4,9 @@ C:\Users\wyklad\documents\visual studio 2013\Projects\ConsoleApplication7\Consol
 C:\Users\wyklad\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
 C:\Users\wyklad\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
 C:\Users\wyklad\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\wyklad\Documents\Visual Studio 2013\Projects\Console App 7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\wyklad\Documents\Visual Studio 2013\Projects\Console App 7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\wyklad\Documents\Visual Studio 2013\Projects\Console App 7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\wyklad\Documents\Visual Studio 2013\Projects\Console App 7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\wyklad\Documents\Visual Studio 2013\Projects\Console App 7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\wyklad\Documents\Visual Studio 2013\Projects\Console App 7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
